@@ -18,6 +18,11 @@ body {
     color: white;
 }
 
+.header-quarterly {
+    font-size: 21px;
+    color: grey;
+}
+
 /* Links */
 
 .link-cta {
